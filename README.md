@@ -17,21 +17,16 @@
 
 ---
 
-## 📊 GitHub Stats  
+<!--- ## 📊 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijithh&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithh&layout=compact&theme=radical)  
 ![Streak](https://streak-stats.demolab.com?user=abhijithh&theme=radical&hide_border=true)  
-
----
-
-## 🏆 Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=abhijithh&theme=onedark&row=1&column=6)  
+--->
 
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi03jith-h/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
 
 ---
