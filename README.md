@@ -1,7 +1,42 @@
-- 👋 Hi, I’m Abhijith H
-- 👀 I’m interested in exploring new tools and frameworks.
-- 🌱 I’m currently learning Machine Learning and Deep Learning.
+# 👋 Hi, I'm Abhijith  
 
+💻 *Aspiring Data Scientist | FOSS Enthusiast | Developer*  
+⚡ Exploring Open Source, Data Science, and Community Building.  
+🌱 Currently learning SQL, Power BI, and working on real-world projects.  
+🤝 Open to collaborations in FOSS & tech communities.  
+
+---
+
+## 🛠 Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![FOSS](https://img.shields.io/badge/FOSS-000000?style=for-the-badge&logo=opensourceinitiative&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijithh&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithh&layout=compact&theme=radical)  
+![Streak](https://streak-stats.demolab.com?user=abhijithh&theme=radical&hide_border=true)  
+
+---
+
+## 🏆 Achievements  
+![Trophies](https://github-profile-trophy.vercel.app/?username=abhijithh&theme=onedark&row=1&column=6)  
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
+
+---
+
+✨ “Contributing to FOSS today builds the future of tech tomorrow.”
 
 <!---
 Abhi2003-h/Abhi2003-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
